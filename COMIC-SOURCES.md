@@ -5,8 +5,8 @@
 1. Start [Suwayomi Server](https://github.com/Suwayomi/Suwayomi-Server/releases/latest) on your PC. Use a release with Extension API v1.6 support.
 2. Open **Comic Sources → Suwayomi · Keiyoushi → Connect** in NovaRead. Suwayomi’s default address on the same PC is `http://127.0.0.1:4567`.
 3. Choose **Add Keiyoushi** if the store is missing, then open **Keiyoushi extensions** and install the source you want. The server runs the extension.
-4. Pick an installed source, search for a series, open its chapter list, and choose **Download chapter**. Pick the chapter’s OCR language and dialogue order before downloading.
-5. The chapter appears under **Downloaded comics** and NovaRead prepares Read Aloud automatically. The PC is needed for source browsing and downloads. Saved chapters and supported offline voices work without the server.
+4. Search for a title from the top of **Home**. NovaRead searches installed comic sources and shows relevant downloaded series. Use **Search in** to choose an individual Suwayomi source or language. Open a series’ chapter list, pick the OCR language and dialogue order, and choose **Download chapter**.
+5. Open a downloaded series in **My Library** or **Manga** and choose a chapter. NovaRead prepares Read Aloud automatically. The PC is needed to browse the Suwayomi catalog and download from it. Saved chapters and supported offline voices work without the server.
 
 NovaRead checks the detected text against the page artwork before reading it aloud. It looks for speech balloons and captions and filters out likely cover titles, contents, credits, and background print. Opening a previously downloaded chapter refreshes its automatic OCR from the saved images. Reviewed transcripts supplied by a source keep their existing dialogue and cast.
 
@@ -16,10 +16,10 @@ For Android, use the PC’s private network address from the same Wi-Fi network.
 
 ## Use a NovaRead source manifest
 
-1. Open **Comic Sources** from the sidebar or select **Browse comic sources** in Manga.
+1. Open **Comic Sources** from the sidebar to manage installed extensions.
 2. Choose **Install extension** for the Ubunchu! sample. For another NovaRead extension, choose **Import extension** and paste its raw GitHub manifest URL.
-3. Find a series and choose **Download chapter**. NovaRead keeps the chapter’s original page images on the device.
-4. Open **Downloaded comics → Read chapter**. Image reading works as soon as the download completes. Select **Read Aloud** when scanning finishes.
+3. Find a series from **Home** and choose **Download chapter**. NovaRead keeps the chapter’s original page images on the device.
+4. Open the series and chapter from **My Library**. Image reading works as soon as the download completes. Select **Read Aloud** when scanning finishes.
 
 NovaRead scans images automatically after download. English and Japanese OCR are supported in source extensions. Windows needs the matching [Windows OCR language pack](https://support.microsoft.com/windows/manage-the-language-and-keyboard-input-layout-settings-in-windows-12a10cb4-8626-9b87-0e27-0ad7e43d7853). Android includes both recognizers. An extension can also supply a reviewed transcript with speaker labels. NovaRead automatically casts those characters. OCR passages with unidentified speakers use the narrator’s voice.
 
