@@ -1,0 +1,52 @@
+{
+  "format": "novaread-comics/1",
+  "id": "ubunchu",
+  "name": "Ubunchu! · Official Japanese pages",
+  "credit": "Ubunchu! by Hiroshi Seo, published by ASCII MEDIA WORKS Inc. · CC BY-NC 3.0 · Images from the Ubunchu translators’ upstream archive.",
+  "series": [
+    {
+      "id": "ubunchu",
+      "title": "Ubunchu!",
+      "language": "ja",
+      "direction": "rtl",
+      "chapters": [
+        {
+          "id": "01",
+          "title": "Chapter 1",
+          "pages": [
+            "https://raw.githubusercontent.com/ubunchu-translators/ubunchu/f3c6473206a8a8b6f1a946e8c60b4cdaff5ea71b/chapters/01/ubunchu01_ja_release/ubunchu01_00.png",
+            "https://raw.githubusercontent.com/ubunchu-translators/ubunchu/f3c6473206a8a8b6f1a946e8c60b4cdaff5ea71b/chapters/01/ubunchu01_ja_release/ubunchu01_01.png",
+            "https://raw.githubusercontent.com/ubunchu-translators/ubunchu/f3c6473206a8a8b6f1a946e8c60b4cdaff5ea71b/chapters/01/ubunchu01_ja_release/ubunchu01_02.png",
+            "https://raw.githubusercontent.com/ubunchu-translators/ubunchu/f3c6473206a8a8b6f1a946e8c60b4cdaff5ea71b/chapters/01/ubunchu01_ja_release/ubunchu01_03.png",
+            "https://raw.githubusercontent.com/ubunchu-translators/ubunchu/f3c6473206a8a8b6f1a946e8c60b4cdaff5ea71b/chapters/01/ubunchu01_ja_release/ubunchu01_04.png",
+            "https://raw.githubusercontent.com/ubunchu-translators/ubunchu/f3c6473206a8a8b6f1a946e8c60b4cdaff5ea71b/chapters/01/ubunchu01_ja_release/ubunchu01_05.png",
+            "https://raw.githubusercontent.com/ubunchu-translators/ubunchu/f3c6473206a8a8b6f1a946e8c60b4cdaff5ea71b/chapters/01/ubunchu01_ja_release/ubunchu01_06.png",
+            "https://raw.githubusercontent.com/ubunchu-translators/ubunchu/f3c6473206a8a8b6f1a946e8c60b4cdaff5ea71b/chapters/01/ubunchu01_ja_release/ubunchu01_07.png",
+            "https://raw.githubusercontent.com/ubunchu-translators/ubunchu/f3c6473206a8a8b6f1a946e8c60b4cdaff5ea71b/chapters/01/ubunchu01_ja_release/ubunchu01_08.png",
+            "https://raw.githubusercontent.com/ubunchu-translators/ubunchu/f3c6473206a8a8b6f1a946e8c60b4cdaff5ea71b/chapters/01/ubunchu01_ja_release/ubunchu01_09.png",
+            "https://raw.githubusercontent.com/ubunchu-translators/ubunchu/f3c6473206a8a8b6f1a946e8c60b4cdaff5ea71b/chapters/01/ubunchu01_ja_release/ubunchu01_10.png",
+            "https://raw.githubusercontent.com/ubunchu-translators/ubunchu/f3c6473206a8a8b6f1a946e8c60b4cdaff5ea71b/chapters/01/ubunchu01_ja_release/ubunchu01_11.png"
+          ]
+        },
+        {
+          "id": "04",
+          "title": "Chapter 4",
+          "pages": [
+            "https://raw.githubusercontent.com/ubunchu-translators/ubunchu/f3c6473206a8a8b6f1a946e8c60b4cdaff5ea71b/chapters/04/ubunchu04_ja-release/ubunchu04_0000.png",
+            "https://raw.githubusercontent.com/ubunchu-translators/ubunchu/f3c6473206a8a8b6f1a946e8c60b4cdaff5ea71b/chapters/04/ubunchu04_ja-release/ubunchu04_0001.png",
+            "https://raw.githubusercontent.com/ubunchu-translators/ubunchu/f3c6473206a8a8b6f1a946e8c60b4cdaff5ea71b/chapters/04/ubunchu04_ja-release/ubunchu04_0002.png",
+            "https://raw.githubusercontent.com/ubunchu-translators/ubunchu/f3c6473206a8a8b6f1a946e8c60b4cdaff5ea71b/chapters/04/ubunchu04_ja-release/ubunchu04_0003.png",
+            "https://raw.githubusercontent.com/ubunchu-translators/ubunchu/f3c6473206a8a8b6f1a946e8c60b4cdaff5ea71b/chapters/04/ubunchu04_ja-release/ubunchu04_0004.png",
+            "https://raw.githubusercontent.com/ubunchu-translators/ubunchu/f3c6473206a8a8b6f1a946e8c60b4cdaff5ea71b/chapters/04/ubunchu04_ja-release/ubunchu04_0005.png",
+            "https://raw.githubusercontent.com/ubunchu-translators/ubunchu/f3c6473206a8a8b6f1a946e8c60b4cdaff5ea71b/chapters/04/ubunchu04_ja-release/ubunchu04_0006.png",
+            "https://raw.githubusercontent.com/ubunchu-translators/ubunchu/f3c6473206a8a8b6f1a946e8c60b4cdaff5ea71b/chapters/04/ubunchu04_ja-release/ubunchu04_0007.png",
+            "https://raw.githubusercontent.com/ubunchu-translators/ubunchu/f3c6473206a8a8b6f1a946e8c60b4cdaff5ea71b/chapters/04/ubunchu04_ja-release/ubunchu04_0008.png",
+            "https://raw.githubusercontent.com/ubunchu-translators/ubunchu/f3c6473206a8a8b6f1a946e8c60b4cdaff5ea71b/chapters/04/ubunchu04_ja-release/ubunchu04_0009.png",
+            "https://raw.githubusercontent.com/ubunchu-translators/ubunchu/f3c6473206a8a8b6f1a946e8c60b4cdaff5ea71b/chapters/04/ubunchu04_ja-release/ubunchu04_0010.png",
+            "https://raw.githubusercontent.com/ubunchu-translators/ubunchu/f3c6473206a8a8b6f1a946e8c60b4cdaff5ea71b/chapters/04/ubunchu04_ja-release/ubunchu04_0011.png"
+          ]
+        }
+      ]
+    }
+  ]
+}
