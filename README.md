@@ -21,6 +21,12 @@ Open the APK from Downloads to install it. Android may ask you to allow installa
 
 You can import your own PDFs or connect a local folder maintained by FolderSync in **Settings → Library sync**.
 
+## Comic Sources
+
+Install a NovaRead extension from **Comic Sources**, then browse series and download chapters as images. The app scans each chapter for Read Aloud automatically. Every PDF also has an **Automatic cast** voice option.
+
+See the [Comic Sources guide](https://github.com/DelMedy/NovaRead/blob/main/COMIC-SOURCES.md) for the extension format and OCR languages.
+
 ## Updates and privacy
 
 NovaRead checks GitHub for a newer release and displays an in-app notification with a download button. You can also check manually under **Settings → App updates**.
