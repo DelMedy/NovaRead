@@ -1,5 +1,17 @@
 # Comic Sources
 
+## Use Suwayomi and the Keiyoushi store
+
+1. Start [Suwayomi Server](https://github.com/Suwayomi/Suwayomi-Server/releases/latest) on your PC. Use a release with Extension API v1.6 support.
+2. Open **Comic Sources → Suwayomi · Keiyoushi → Connect** in NovaRead. Suwayomi’s default address on the same PC is `http://127.0.0.1:4567`.
+3. Choose **Add Keiyoushi** if the store is missing, then open **Keiyoushi extensions** and install the source you want. The server runs the extension.
+4. Pick an installed source, search for a series, open its chapter list, and choose **Download chapter**. Pick the chapter’s OCR language and dialogue order before downloading.
+5. The chapter appears under **Downloaded comics** and NovaRead prepares Read Aloud automatically. The PC is needed for source browsing and downloads. Saved chapters and supported offline voices work without the server.
+
+For Android, use the PC’s private network address from the same Wi-Fi network. Configure your Suwayomi server to listen on that LAN address and enable **Basic Auth** if you want to connect over the network. Use HTTPS for a remote server. NovaRead remembers the address and keeps Basic Auth credentials for the active connection.
+
+## Use a NovaRead source manifest
+
 1. Open **Comic Sources** from the sidebar or select **Browse comic sources** in Manga.
 2. Choose **Install extension** for the Ubunchu! sample. For another NovaRead extension, choose **Import extension** and paste its raw GitHub manifest URL.
 3. Find a series and choose **Download chapter**. NovaRead keeps the chapter’s original page images on the device.
