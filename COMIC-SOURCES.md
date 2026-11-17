@@ -12,6 +12,8 @@ NovaRead checks the detected text against the page artwork before reading it alo
 
 If Read Aloud skips a page or misreads it, select **Rescan OCR** in the comic reader toolbar. Rescan one page with **Recover missed dialogue** to include likely lettering outside balloons, or rescan the **Entire chapter** with the standard dialogue filter. NovaRead uses the saved images and keeps previous OCR on pages where the rescan finds no dialogue.
 
+For manga, select **Right to left (manga)** before rescanning. The reader uses page gutters to keep dialogue within the appropriate panel. English OCR also identifies light-colored speech balloons and captions, then recognizes their lettering individually on your device. Reviewed source transcripts can still be more accurate on stylized artwork.
+
 In **Read Aloud → Audio language**, choose **Japanese · VOICEVOX** to hear Japanese while following the original text. Android includes VOICEVOX. On Windows, use **Open VOICEVOX** to start the installed engine. Windows translates dialogue locally in Microsoft Edge. The initial language model download requires an internet connection.
 
 For Android, use the PC’s private network address from the same Wi-Fi network. Configure your Suwayomi server to listen on that LAN address and enable **Basic Auth** if you want to connect over the network. Use HTTPS for a remote server. NovaRead remembers the address and keeps Basic Auth credentials for the active connection.
